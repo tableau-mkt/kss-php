@@ -1,3 +1,5 @@
+__This package is abandoned and no longer maintained. The author suggests using the kss-php/kss-php package instead.__
+
 # Knyle Style Sheets
 
 This is a PHP implementation of [Knyle Style Sheets](http://warpspire.com/kss) (KSS). KSS attempts to provide a methodology for writing maintainable, documented CSS within a team. Specifically, KSS is a documentation specification and styleguide format. It is **not** a preprocessor, CSS framework, naming convention, or specificity guideline.
